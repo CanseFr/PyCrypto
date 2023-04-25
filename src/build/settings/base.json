@@ -1,0 +1,6 @@
+{
+    "app_name": "Crypto 2S3",
+    "author": "Canse",
+    "main_module": "src/main/python/main.py",
+    "version": "1.0.0"
+}
